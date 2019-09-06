@@ -1,4 +1,5 @@
-/* Read input from STDIN. Print your output to STDOUT*/
+/* Read input from STDIN. Print your output to STDOUT
+Count special numbers between boundaries(100 marks)
 /* For this challenge, you are given a range and you need to find how many prime numbers lying between the given range. 
 Input Format
 For this challenge, you need to take two integers on separate lines. These numbers defines the range. 
