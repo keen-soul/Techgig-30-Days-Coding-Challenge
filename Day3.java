@@ -1,4 +1,5 @@
 /* Read input from STDIN. Print your output to STDOUT
+Play with operators (100 marks)
 For this challenge, you will be given the values of principal, interest and year. You need to calculate the simple interest, round it to the nearest integer and print it. 
 Input Format
 There will be 3 lines of numeric input - 
